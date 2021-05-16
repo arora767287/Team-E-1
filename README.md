@@ -1,4 +1,4 @@
-#About
+# About
 
 This is MATE Team E's 2020-2021 codebase. A description of the working parts and purpose of the code can be found here:
 
